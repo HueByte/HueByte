@@ -12,3 +12,4 @@
 - Blazor
 - Angular 
 - TypeScript 
+- React
