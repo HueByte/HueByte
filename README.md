@@ -10,6 +10,6 @@
 
 - ASP.net core
 - Blazor
-- Angular 
-- TypeScript 
 - React
+- JavScript / TypeScript 
+- Discord.Net
