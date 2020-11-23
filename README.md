@@ -4,12 +4,12 @@
 
 > 💬 If you have any questions feel free to contact me at discord (Hue ❤#3539) or via email ainodeve@gmail.com
 
-> ⚡ I'm currently working on my discord bot outside my job so feel free to check out the info about it at <a href="https://huebyte.github.io/Bot" target="_blank">**HueByte.Github.io**</a>
+> ⚡ I'm currently working on my discord bot outside my job and school so feel free to check out the info about it at <a href="https://huebyte.github.io/Bot" target="_blank">**HueByte.Github.io**</a>
 
 ### Technologies I'm currently into or I'm learning 
 
 - ASP.net core
 - Blazor
 - React
-- JavScript / TypeScript 
+- JavaScript / TypeScript 
 - Discord.Net
