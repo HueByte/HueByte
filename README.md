@@ -3,7 +3,7 @@
 ### I'm Hue! I love coding and though I consider .NET as my main technology I'm always open for learning new ones and mastering them!
 
 ## `❓ Q&A`
-> 💬 If you have any questions feel free to contact me at discord `(Hue ❤#3539)` or via email ainodeve@gmail.com
+> 💬 If you have any questions feel free to contact me at discord `Hue ❤#3539` or via email ainodeve@gmail.com
 
 > ⚡ I'm currently working on my discord bot outside my job and school so feel free to check out the info about it at <a href="https://huebyte.github.io/Bot" target="_blank">**HueByte.Github.io**</a>
 
