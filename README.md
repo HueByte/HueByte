@@ -1,5 +1,5 @@
 <a href="https://huebyte.github.io/" title="Avatar" alt="Hue's avatar"><img src="https://i.pinimg.com/originals/56/c5/98/56c598c25b16a9d9c501faafc026c0dc.jpg" title="Hue" alt="Hue avatar"></a>
-## `Hi there 👋`
+## `👋 Hi there`
 ### I'm Hue! I love coding and though I consider .NET as my main technology I'm always open for learning new ones and mastering them!
 
 ## `👾 Something about me`
