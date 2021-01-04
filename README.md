@@ -14,3 +14,4 @@
 - React
 - JavaScript / TypeScript 
 - Discord.Net
+- Docker & Kubernetes
