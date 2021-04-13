@@ -23,10 +23,12 @@
 
 ### `💻 Technologies I'm currently into or I'm learning ⚗️` 
 
-- ASP.net core
+- ASP.net core 
+- .NET 5
 - Blazor
 - React
 - JavaScript / TypeScript 
+- Node.js
 - Discord.Net
 - Docker & Kubernetes
 
