@@ -19,6 +19,8 @@
 <img style="margin-right: 5px" align="left" alt="GitHub" width="28px" src="icons/github.png" />
 <img style="margin-right: 5px" align="left" alt="Terminal" width="28px" src="icons/terminal.png" />
 
+<br>
+
 ### `💻 Technologies I'm currently into or I'm learning ⚗️` 
 
 - ASP.net core
