@@ -5,7 +5,7 @@
 ## `👾 Something about me`
 > 💬 If you have any questions feel free to contact me at discord `Hue ❤#3539` or via email ainodeve@gmail.com
 
-> ⚡ I'm currently working roulette outside my job and school.
+> ⚡ Currently mastering my skills and learning new stuff 💹.
 
 ## `⚙️ Languages & Tools`
 
