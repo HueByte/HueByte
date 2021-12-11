@@ -5,7 +5,7 @@
 ## `👾 Something about me`
 > 💬 If you have any questions feel free to contact me at discord `Hue ❤#3539` or via email ainodeve@gmail.com
 
-> ⚡ Currently mastering my skills and learning new stuff 💹.
+> ⚡ Currently besides my job I'm Computer Science student
 
 ## `⚙️ Languages & Tools`
 
@@ -21,16 +21,13 @@
 
 <br>
 
-### `💻 Technologies I'm currently into or I'm learning ⚗️` 
+### `💻 Technologies I'm working with lately ⚗️` 
 
-- ASP.net core 
-- .NET 5
-- Blazor
-- React
-- JavaScript / TypeScript 
-- Node.js
-- Discord.Net
-- Docker & Kubernetes
+- .net 5/6 
+- ASP.NET 6
+- React.JS
+- TypeScript
+- Vue
 
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=HueByte&show_icons=true&theme=radical">
