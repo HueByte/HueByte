@@ -3,7 +3,7 @@
 ### I'm Hue! I love coding and though I consider .NET as my main technology I'm always open for learning new ones and mastering them!
 
 ## `👾 Something about me`
-> 💬 If you have any questions feel free to contact me at discord `Hue ❤#3539` or via email ainodeve@gmail.com
+> 💬 If you have any questions feel free to contact me at discord [click here](https://discordapp.com/users/215556401467097088) or via email ainodeve@gmail.com
 
 > ⚡ Currently besides my job I'm Computer Science student
 
@@ -23,11 +23,10 @@
 
 ### `💻 Technologies I'm working with lately ⚗️` 
 
-- .net 5/6 
-- ASP.NET 6
-- React.JS
-- TypeScript
+- .net 5/6 / ASP.NET
+- React
 - Vue
+- TypeScript
 
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=HueByte&show_icons=true&theme=radical">
