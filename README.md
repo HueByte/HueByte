@@ -29,10 +29,7 @@
 - TypeScript
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=HueByte&show_icons=true&theme=radical">
-</p>
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HueByte&layout=compact&theme=radical">
+  <img src="https://raw.githubusercontent.com/HueByte/HueByte/d031f6e43098cb160f30cd404d61d8db3696f9d9/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 <p align="center">
   Programming isn't about what you know; it's about what you can figure out
