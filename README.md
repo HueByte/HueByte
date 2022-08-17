@@ -25,7 +25,7 @@
 ### `💻 Things I'm working on lately in my free time ⚗️` 
 - Expanding my programming skills
 - Developing my discord bot `Huppy`
-- Maintaining [MyThingsSaver](https://github.com/HueByte/MyThingsSaver)
+- Maintaining [My Things Saver](https://github.com/HueByte/MyThingsSaver)
 - Learning Computer Science stuff
 - Some smaller projects that I have in my mind 
 
