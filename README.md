@@ -22,12 +22,12 @@
 
 <br>
 
-### `💻 Technologies I'm working with lately ⚗️` 
-
-- .net 5/6 / ASP.NET
-- React
-- Vue
-- TypeScript
+### `💻 Things I'm working on lately in my free time ⚗️` 
+- Expanding my programming skills
+- Developing my discord bot `Huppy`
+- Maintaining [MyThingsSaver](https://github.com/HueByte/MyThingsSaver)
+- Learning Computer Science stuff
+- Some smaller projects that I have in my mind 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HueByte/HueByte/d031f6e43098cb160f30cd404d61d8db3696f9d9/profile-3d-contrib/profile-night-rainbow.svg" />
