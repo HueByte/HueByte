@@ -23,7 +23,7 @@ I really recommend checking out https://me.huebytes.com/ !
 
 <br>
 
-### `💻 Things I'm working on lately in my free time ⚗️` 
+## `💻 Things I'm working on lately in my free time ⚗️` 
 - Expanding my programming skills
 - Developing my discord bot `Huppy`
 - Maintaining [My Things Saver](https://github.com/HueByte/MyThingsSaver)
@@ -34,5 +34,5 @@ I really recommend checking out https://me.huebytes.com/ !
   <img src="https://raw.githubusercontent.com/HueByte/HueByte/d031f6e43098cb160f30cd404d61d8db3696f9d9/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 <p align="center">
-  Programming isn't about what you know; it's about what you can figure out
+  *Things aren’t always #000000 and #FFFFFF*
 </p>
