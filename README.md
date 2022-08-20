@@ -34,5 +34,5 @@ I really recommend checking out https://me.huebytes.com/ !
   <img src="https://raw.githubusercontent.com/HueByte/HueByte/d031f6e43098cb160f30cd404d61d8db3696f9d9/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 <p align="center">
-  *Things aren’t always #000000 and #FFFFFF*
+  Things aren’t always #000000 and #FFFFFF
 </p>
