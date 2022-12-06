@@ -25,7 +25,7 @@ I really recommend checking out https://me.huebytes.com/ !
 
 ## `💻 Things I'm working on lately in my free time ⚗️` 
 - Expanding my programming skills
-- Developing my discord bot `Huppy`
+- Developing my discord bot `Huppy` and `Jiro` assistant 
 - Maintaining [My Things Saver](https://github.com/HueByte/MyThingsSaver)
 - Learning Computer Science stuff
 - Some smaller projects that I have in my mind 
