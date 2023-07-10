@@ -3,15 +3,15 @@
 ### I'm Hue! I love coding and though I consider .NET as my main technology I'm always open for learning new ones and mastering them!
 
 ## `👾 Something about me`
-> 💬 If you have any questions feel free to contact me at discord [click here](https://discordapp.com/users/215556401467097088) (HueByte#0001) or via email <a href="ihuebyte@gmail.com" target="_blank">ihuebyte@gmail.com</a><br>
+> 💬 If you have any questions feel free to contact me at discord [click here](https://discordapp.com/users/215556401467097088) (HueByte) or via email <a href="ihuebyte@gmail.com" target="_blank">ihuebyte@gmail.com</a><br>
 I really recommend checking out https://me.huebytes.com/ !
 
 > ⚡ Currently besides my full-time job I'm Computer Science student
 <br>
 
 ## `💻 Things I'm working on lately in my free time ⚗️` 
-- Expanding my programming skills
-- Developing my discord bot `Huppy` and `Jiro` assistant 
+- Improving my programming skills
+- Developing my projects like [Jiro](https://github.com/HueByte/Jiro)
 - Maintaining [My Things Saver](https://github.com/HueByte/MyThingsSaver)
 - Learning Computer Science stuff
 - Some smaller projects that I have in my mind 
