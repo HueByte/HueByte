@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="https://huebyte.github.io/" title="Hue's avatar">
-    <img src="https://i.pinimg.com/originals/56/c5/98/56c598c25b16a9d9c501faafc026c0dc.jpg" alt="Hue avatar" width="100%">
-  </a>
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:FCD4B8,100:66D1E6&text=Hey!%20I'm%20Hue&desc=Software%20Engineer%20|%20Computer%20Science%20Student%20|%20Hobbyist%20Creator&descAlignY=70&fontColor=ffffff&fontSize=50" />
 </p>
 <p align="center">
