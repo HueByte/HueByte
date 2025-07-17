@@ -33,13 +33,24 @@
 
 ## ⚡ What I'm Working On
 
-| 🚀 Project | Description | Links | ☁️
-| ------- | ----------- | ----- | ---- |
-| 🤖 **Jiro** | Personal AI assistant with a plugin system powered by LLMs | [Repo](https://github.com/HueByte/Jiro) • [Libs](https://github.com/HueByte/Jiro.Libs) • [Shared](https://github.com/HueByte/Jiro.Shared) | <a href="https://www.nuget.org/packages/Jiro.Shared/"><img src="https://img.shields.io/nuget/v/Jiro.Shared.svg?style=for-the-badge&color=blue" alt="NuGet"/></a><a href="https://www.nuget.org/packages/Jiro.Commands/"><img src="https://img.shields.io/nuget/v/Jiro.Commands?style=for-the-badge&color=blue" alt="NuGet Version"/></a><a href="https://github.com/HueByte/Jiro/releases/latest"><img src="https://img.shields.io/github/v/release/HueByte/Jiro?style=for-the-badge&color=blue" alt="Latest Release"/></a>
-| 😈 **Amiquin** | Chaos-loving AI sidekick for snark and humor | [Repo](https://github.com/HueByte/Amiquin) | soon™️ |
-| 🖼️ **Console Imager** | Display images in the console from online sources | [Repo](https://github.com/HueByte/ConsoleImager) | <a href="https://github.com/HueByte/ConsoleImager/releases/latest"><img src="https://img.shields.io/github/v/release/HueByte/ConsoleImager?style=for-the-badge&color=blue" alt="Latest Release"/></a>
+| 🚀 Project | Description | Links | 
+| ------- | ----------- | ----- | 
+| 🤖 **Jiro** | Personal AI assistant with a plugin system powered by LLMs | [Repo](https://github.com/HueByte/Jiro) • [Libs](https://github.com/HueByte/Jiro.Libs) • [Shared](https://github.com/HueByte/Jiro.Shared) | 
+| 😈 **Amiquin** | Chaos-loving AI sidekick for snark and humor | [Repo](https://github.com/HueByte/Amiquin) | 
+| 🖼️ **Console Imager** | Display images in the console from online sources | [Repo](https://github.com/HueByte/ConsoleImager) |
 
 ---
+
+## 🌧️ Workflows
+
+| 🐛 Project | 🛠️ Build | ⚖️ Size | 📜 Documentation | ☁️ |
+| ------- | ----- | ---- | -------------- | ------ |
+| **Jiro** | [![Build Status](https://img.shields.io/github/actions/workflow/status/HueByte/Jiro/create-release.yml?branch=main&style=for-the-badge&label=build)](https://github.com/HueByte/Jiro/actions/workflows/create-release.yml) | ![Size](https://img.shields.io/github/repo-size/HueByte/Jiro?style=for-the-badge) | [![Docs](https://img.shields.io/badge/docs-available-blue?style=for-the-badge)](https://huebyte.github.io/Jiro/documentation/index.html) | [![Release](https://img.shields.io/github/v/release/HueByte/Jiro?style=for-the-badge&color=blue)](https://github.com/HueByte/Jiro/releases/latest) |
+| **Jiro.Libs** | [![Build Status](https://img.shields.io/github/actions/workflow/status/HueByte/Jiro.Libs/create-release.yml?branch=main&style=for-the-badge&label=build)](https://github.com/HueByte/Jiro.Libs/actions/workflows/create-release.yml) | ![Size](https://img.shields.io/github/repo-size/HueByte/Jiro.Libs?style=for-the-badge) | [![Docs](https://img.shields.io/badge/docs-available-blue?style=for-the-badge)](https://huebyte.github.io/Jiro.Libs/docs/index.html) | [![NuGet](https://img.shields.io/nuget/v/Jiro.Commands?style=for-the-badge)](https://www.nuget.org/packages/Jiro.Commands#readme-body-tab) |
+| **Jiro.Shared** | [![Build Status](https://img.shields.io/github/actions/workflow/status/HueByte/Jiro.Shared/create-release.yml?style=for-the-badge&label=build)](https://github.com/HueByte/Jiro.Shared/actions/workflows/create-release.yml) | ![Size](https://img.shields.io/github/repo-size/HueByte/Jiro.Shared?style=for-the-badge) | [![Docs](https://img.shields.io/badge/docs-available-blue?style=for-the-badge)](https://huebyte.github.io/Jiro.Shared/docs/index.html) | [![NuGet](https://img.shields.io/nuget/v/Jiro.Shared?style=for-the-badge)](https://www.nuget.org/packages/Jiro.Shared) |
+| **Amiquin** | [![Build Status](https://img.shields.io/github/actions/workflow/status/HueByte/Amiquin/create-release.yml?branch=main&style=for-the-badge&label=build)](https://github.com/HueByte/Amiquin/actions/workflows/create-release.yml) | ![Size](https://img.shields.io/github/repo-size/HueByte/Amiquin?style=for-the-badge) | [![Docs](https://img.shields.io/badge/docs-available-blue?style=for-the-badge)](https://huebyte.github.io/Amiquin/docs/getting-started.html) | <p align="center">Soon™️</p> |
+| **Console Imager** | ![Build Status](https://img.shields.io/badge/build-N%2FA-lightgrey?style=for-the-badge) | ![Size](https://img.shields.io/github/repo-size/HueByte/ConsoleImager?style=for-the-badge) | [![Docs](https://img.shields.io/badge/docs-none-lightgrey?style=for-the-badge)](https://github.com/HueByte/ConsoleImager) | [![Release](https://img.shields.io/github/v/release/HueByte/ConsoleImager?style=for-the-badge&color=blue)](https://github.com/HueByte/ConsoleImager/releases/latest) |
+| **My Things Saver** | ![Build Status](https://img.shields.io/badge/build-N%2FA-lightgrey?style=for-the-badge) | ![Size](https://img.shields.io/github/repo-size/HueByte/MyThingsSaver?style=for-the-badge) | [![Docs](https://img.shields.io/badge/docs-none-lightgrey?style=for-the-badge)](https://github.com/HueByte/MyThingsSaver) | [![Release](https://img.shields.io/github/v/release/HueByte/MyThingsSaver?style=for-the-badge&color=blue)](https://github.com/HueByte/MyThingsSaver/releases/latest) |
 
 ## 📊 GitHub Activity
 
