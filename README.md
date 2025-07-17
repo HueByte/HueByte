@@ -33,12 +33,11 @@
 
 ## ⚡ What I'm Working On
 
-| 🚀 Project | Description | Links |
-| ------- | ----------- | ----- |
-| 🤖 **Jiro** | Personal AI assistant with a plugin system powered by LLMs | [Repo](https://github.com/HueByte/Jiro) • [Libs](https://github.com/HueByte/Jiro.Libs) • [Shared](https://github.com/HueByte/Jiro.Shared) |
-| 😈 **Amiquin** | Chaos-loving AI sidekick for snark and humor | [Repo](https://github.com/HueByte/Amiquin) |
-| 🖼️ **Console Imager** | Display images in the console from online sources | [Repo](https://github.com/HueByte/ConsoleImager) |
-| 🗃️ **My Things Saver** | A personal inventory tracker | [Repo](https://github.com/HueByte/MyThingsSaver) |
+| 🚀 Project | Description | Links | ☁️
+| ------- | ----------- | ----- | ---- |
+| 🤖 **Jiro** | Personal AI assistant with a plugin system powered by LLMs | [Repo](https://github.com/HueByte/Jiro) • [Libs](https://github.com/HueByte/Jiro.Libs) • [Shared](https://github.com/HueByte/Jiro.Shared) | <a href="https://www.nuget.org/packages/Jiro.Shared/"><img src="https://img.shields.io/nuget/v/Jiro.Shared.svg?style=for-the-badge&color=blue" alt="NuGet"/></a><a href="https://www.nuget.org/packages/Jiro.Commands/"><img src="https://img.shields.io/nuget/v/Jiro.Commands?style=for-the-badge&color=blue" alt="NuGet Version"/></a><a href="https://github.com/HueByte/Jiro/releases/latest"><img src="https://img.shields.io/github/v/release/HueByte/Jiro?style=for-the-badge&color=blue" alt="Latest Release"/></a>
+| 😈 **Amiquin** | Chaos-loving AI sidekick for snark and humor | [Repo](https://github.com/HueByte/Amiquin) | soon™️ |
+| 🖼️ **Console Imager** | Display images in the console from online sources | [Repo](https://github.com/HueByte/ConsoleImager) | <a href="https://github.com/HueByte/ConsoleImager/releases/latest"><img src="https://img.shields.io/github/v/release/HueByte/ConsoleImager?style=for-the-badge&color=blue" alt="Latest Release"/></a>
 
 ---
 
