@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:FCD4B8,100:66D1E6&text=Hey!%20I'm%20Hue&desc=Software%20Engineer%20|%20Computer%20Science%20Student%20|%20Hobbyist%20Creator&descAlignY=70&fontColor=ffffff&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:FCD4B8,100:66D1E6&text=Hey!%20I'm%20Hue&desc=Software%20Engineer%20|%20Computer%20Science%20Engineer%20|%20Hobbyist%20Creator&descAlignY=70&fontColor=ffffff&fontSize=50" />
 </p>
 <p align="center">
   <p align="center">
@@ -19,7 +19,7 @@
 
 ## 👾 About Me
 - 👨‍💻 Full-time Software Engineer specializing in **.NET & Cloud solutions**
-- 🎓 Studying Computer Science — theory + practice = ❤️
+- 🎓 Studying the magic of Computer Science — theory + practice = ❤️
 - 🤖 Building tools, bots, and AI experiments for fun and growth
 - 🕹️ Gamer, musician, and occasional shitposter
 - 📬 DM me on [Discord (HueByte)](https://discordapp.com/users/215556401467097088) or [email](mailto:ihuebyte@gmail.com)
