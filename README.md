@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:7B19E4,100:F8AF8E&text=Hey!%20I%27m%20Hue&desc=Software%20Engineer%20|%20AI%20Architect%20Apprentice&descAlignY=70&fontColor=2D2346&fontSize=52" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=140&color=0:7B19E4,100:F8AF8E" />
 </p>
+<h1 align="center">Hey! I’m Hue</h1>
+<p align="center">
+  Software Engineer | AI Architect Apprentice
+</p>
+
 <p align="center">
   <p align="center">
     <a href="https://discordapp.com/users/215556401467097088"><img src="https://img.shields.io/badge/Discord-HueByte-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
