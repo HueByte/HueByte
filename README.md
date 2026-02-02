@@ -57,16 +57,6 @@
 | **Console Imager** | ![Build Status](https://img.shields.io/badge/build-N%2FA-6C6F93?style=for-the-badge) | ![Size](https://img.shields.io/github/repo-size/HueByte/ConsoleImager?style=for-the-badge&color=27D797) | [![Docs](https://img.shields.io/badge/docs-none-6C6F93?style=for-the-badge)](https://github.com/HueByte/ConsoleImager) | [![Release](https://img.shields.io/github/v/release/HueByte/ConsoleImager?style=for-the-badge&color=66D1E6)](https://github.com/HueByte/ConsoleImager/releases/latest) |
 | **My Things Saver** | ![Build Status](https://img.shields.io/badge/build-N%2FA-6C6F93?style=for-the-badge) | ![Size](https://img.shields.io/github/repo-size/HueByte/MyThingsSaver?style=for-the-badge&color=27D797) | [![Docs](https://img.shields.io/badge/docs-none-6C6F93?style=for-the-badge)](https://github.com/HueByte/MyThingsSaver) | [![Release](https://img.shields.io/github/v/release/HueByte/MyThingsSaver?style=for-the-badge&color=66D1E6)](https://github.com/HueByte/MyThingsSaver/releases/latest) |
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HueByte&show_icons=true&hide=stars&rank_icon=github&theme=transparent&title_color=FCD4B8&text_color=D5D8DA&icon_color=FCD4B8&bg_color=1C1E26&border_color=16161C&custom_title=HueByte%20GitHub%20Stats&card_width=450" alt="HueByte's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HueByte&layout=compact&theme=transparent&title_color=FCD4B8&text_color=D5D8DA&icon_color=FCD4B8&bg_color=1C1E26&border_color=16161C&card_width=450&langs_count=12" alt="HueByte's Top Languages"/>
-</p>
-
 <p align="center"><i>Things aren’t always <code>#000000</code> and <code>#FFFFFF</code></i></p>
 
 ---
