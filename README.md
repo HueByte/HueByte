@@ -111,7 +111,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.voidcube.cloud/assets/hue_icon_bg.svg" alt="Profile Views" width="140" style="border-radius:50%"/>
+  <img src="https://cdn.voidcube.cloud/assets/hue_icon.svg" width="140" style="border-radius:50%" alt="Hue Icon"/>
 </p>
 
 <p>
