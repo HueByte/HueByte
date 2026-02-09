@@ -16,13 +16,12 @@
 
 ---
 
-
 <p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCD4B8,100:66D1E6&height=120&section=header" width="100%"/>
 </p>
 
-
 ## 👾 About Me
+
 - 👨‍💻 Full-time Software Engineer specializing in **.NET & Cloud solutions**
 - 🎓 Studying the magic of Computer Science — theory + practice = ❤️
 - 🤖 Building tools, bots, and AI experiments for fun and growth
@@ -30,6 +29,7 @@
 - 📬 DM me on [Discord (HueByte)](https://discordapp.com/users/215556401467097088) or [email](mailto:ihuebyte@gmail.com)
 
 ## 🎯 Current Focus
+
 - 🚀 Deepening knowledge in **AI-assisted apps & services**
 - 🌐 Exploring advanced **.NET 9**, **SignalR**, **gRPC**
 - ⚙️ Scaling my personal projects for public use
@@ -38,10 +38,13 @@
 
 ## ⚡ What I'm Working On
 
-| 🚀 Project | Description | Links | 
-| ------- | ----------- | ----- | 
-| 🤖 **Jiro** | Personal AI assistant with a plugin system powered by LLMs | [Repo](https://github.com/HueByte/Jiro) • [Libs](https://github.com/HueByte/Jiro.Libs) • [Shared](https://github.com/HueByte/Jiro.Shared) | 
-| 😈 **Amiquin** | Chaos-loving AI sidekick for snark and humor | [Repo](https://github.com/HueByte/Amiquin) | 
+| 🚀 Project | Description | Links |
+| ------- | ----------- | ----- |
+| 🤖 **Jiro** | Personal AI assistant with a plugin system powered by LLMs | [Repo](https://github.com/HueByte/Jiro) • [Libs](https://github.com/HueByte/Jiro.Libs) • [Shared](https://github.com/HueByte/Jiro.Shared) |
+| ☁️ **Morpheus** | Private AI agent for personal tasks and experiments | Currently private |
+| 😈 **Amiquin** | Chaos-loving AI sidekick for snark and humor | [Repo](https://github.com/HueByte/Amiquin) |
+| 🎨 **Hue Graphics** | A collection of fun console graphics experiments | [Repo](https://github.com/HueByte/HueGraphics) |
+| 🗂️ **Explorer** |A lightweight Node.js file explorer that powers my private CDN browsing. | [Repo](https://github.com/HueByte/CDN_Explorer) |
 | 🖼️ **Console Imager** | Display images in the console from online sources | [Repo](https://github.com/HueByte/ConsoleImager) |
 
 ---
@@ -101,11 +104,14 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
-
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HueByte&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://cdn.voidcube.cloud/assets/hue_icon_bg.svg" alt="Profile Views" width="140" style="border-radius:50%"/>
 </p>
 
 <p>
