@@ -43,7 +43,7 @@
 | 🤖 **Jiro** | Personal AI assistant with a plugin system powered by LLMs | [Repo](https://github.com/HueByte/Jiro) • [Libs](https://github.com/HueByte/Jiro.Libs) • [Shared](https://github.com/HueByte/Jiro.Shared) |
 | ☁️ **Morpheus** | Private AI agent for personal tasks and experiments | Currently private |
 | 😈 **Amiquin** | Chaos-loving AI sidekick for snark and humor | [Repo](https://github.com/HueByte/Amiquin) |
-| 🎨 **Hue Graphics** | A collection of fun console graphics experiments | [Repo](https://github.com/HueByte/HueGraphics) |
+| 🎨 **Hue Graphics** | A collection of fun graphics experiments | [Repo](https://github.com/HueByte/HueGraphics) |
 | 🗂️ **Explorer** |A lightweight Node.js file explorer that powers my private CDN browsing. | [Repo](https://github.com/HueByte/CDN_Explorer) |
 | 🖼️ **Console Imager** | Display images in the console from online sources | [Repo](https://github.com/HueByte/ConsoleImager) |
 
