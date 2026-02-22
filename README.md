@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=0:7B19E4,100:F8AF8E" />
 </p>
-<h1 align="center">Hey! I’m Hue</h1>
+<h1 align="center">Hey! I'm Hue</h1>
 <p align="center">
-  Software Engineer | AI Architect Apprentice
+  Software Engineer · AI grad · building weird things
 </p>
 
 <p align="center">
@@ -22,29 +22,30 @@
 
 ## 👾 About Me
 
-- 👨‍💻 Full-time Software Engineer specializing in **.NET & Cloud solutions**
-- 🎓 Studying the magic of Computer Science — theory + practice = ❤️
-- 🤖 Building tools, bots, and AI experiments for fun and growth
-- 🕹️ Gamer, musician, and occasional shitposter
-- 📬 DM me on [Discord (HueByte)](https://discordapp.com/users/215556401467097088) or [email](mailto:ihuebyte@gmail.com)
+I'm a software engineer who'll chase any rabbit hole that looks interesting — AI, terminal UIs, IRC protocols, graphics experiments, you name it. Language agnostic, though .NET has a special place in my heart.
 
-## 🎯 Current Focus
+Got my engineering degree in AI and never looked back — now it's all about building things that are actually fun to use. Outside of code I'm either gaming, making music, or posting things I'll regret later.
 
-- 🚀 Deepening knowledge in **AI-assisted apps & services**
-- 🌐 Exploring advanced **.NET 9**, **SignalR**, **gRPC**
-- ⚙️ Scaling my personal projects for public use
+Hit me up on [Discord](https://discordapp.com/users/215556401467097088) or [email](mailto:ihuebyte@gmail.com) if you want to chat.
+
+## 🎯 Currently poking at
+
+- **AI stuff beyond chatbots** — classical ML, computer vision, agents, whatever fits the problem
+- Picking the right tool for the job — be it **.NET**, **Rust**, **Python**, or whatever else
+- Actually finishing side projects for once
 
 ---
 
-## ⚡ What I'm Working On
+## ⚡ Projects
 
-| 🚀 Project | Description | Links |
+| 🚀 Project | What it is | Links |
 | ------- | ----------- | ----- |
+| 💬 **EchoHub** | Self-hosted IRC-style chat — terminal client, SignalR backend, IRC gateway. No tracking, no bloat, just chat. | [Repo](https://github.com/HueByte/EchoHub) • [App](https://echohub.voidcube.cloud/) |
 | 🤖 **Jiro** | Personal AI assistant with a plugin system powered by LLMs | [Repo](https://github.com/HueByte/Jiro) • [Libs](https://github.com/HueByte/Jiro.Libs) • [Shared](https://github.com/HueByte/Jiro.Shared) |
 | ☁️ **Morpheus** | Private AI agent for personal tasks and experiments | Currently private |
-| 😈 **Amiquin** | Chaos-loving AI sidekick for snark and humor | [Repo](https://github.com/HueByte/Amiquin) |
+| 😈 **Amiquin** | Chaos-loving AI sidekick — snark and humor on demand | [Repo](https://github.com/HueByte/Amiquin) |
 | 🎨 **Hue Graphics** | A collection of fun graphics experiments | [Repo](https://github.com/HueByte/HueGraphics) |
-| 🗂️ **Explorer** |A lightweight Node.js file explorer that powers my private CDN browsing. | [Repo](https://github.com/HueByte/CDN_Explorer) |
+| 🗂️ **Explorer** | Lightweight Node.js file explorer powering my private CDN | [Repo](https://github.com/HueByte/CDN_Explorer) |
 | 🖼️ **Console Imager** | Display images in the console from online sources | [Repo](https://github.com/HueByte/ConsoleImager) |
 
 ---
@@ -60,7 +61,7 @@
 | **Console Imager** | ![Build Status](https://img.shields.io/badge/build-N%2FA-6C6F93?style=for-the-badge) | ![Size](https://img.shields.io/github/repo-size/HueByte/ConsoleImager?style=for-the-badge&color=27D797) | [![Docs](https://img.shields.io/badge/docs-none-6C6F93?style=for-the-badge)](https://github.com/HueByte/ConsoleImager) | [![Release](https://img.shields.io/github/v/release/HueByte/ConsoleImager?style=for-the-badge&color=66D1E6)](https://github.com/HueByte/ConsoleImager/releases/latest) |
 | **My Things Saver** | ![Build Status](https://img.shields.io/badge/build-N%2FA-6C6F93?style=for-the-badge) | ![Size](https://img.shields.io/github/repo-size/HueByte/MyThingsSaver?style=for-the-badge&color=27D797) | [![Docs](https://img.shields.io/badge/docs-none-6C6F93?style=for-the-badge)](https://github.com/HueByte/MyThingsSaver) | [![Release](https://img.shields.io/github/v/release/HueByte/MyThingsSaver?style=for-the-badge&color=66D1E6)](https://github.com/HueByte/MyThingsSaver/releases/latest) |
 
-<p align="center"><i>Things aren’t always <code>#000000</code> and <code>#FFFFFF</code></i></p>
+<p align="center"><i>Things aren't always <code>#000000</code> and <code>#FFFFFF</code></i></p>
 
 ---
 
