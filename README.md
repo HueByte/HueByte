@@ -26,7 +26,8 @@ I like building things. Sometimes it's AI agents, sometimes it's a terminal chat
 
 I'm a big believer in owning your own stuff - self-hosted, open source, no unnecessary dependencies on someone else's platform. If I can build it myself and learn something along the way, that's the move. I'd rather ship something rough that works than overthink it into never existing.
 
-Also into gaming, music, and shitposting. Reach me on [Discord](https://discordapp.com/users/215556401467097088) or [email](mailto:ihuebyte@gmail.com).
+Also into gaming, music, and shitposting. Reach me on [Discord](https://discordapp.com/users/215556401467097088) or [email](mailto:ihuebyte@gmail.com).<br>
+Feel free to also join me on https://echo.voidcube.cloud/ [EchoHub](https://github.com/HueByte/EchoHub)/IRC server!
 
 ## 🎯 Currently poking at
 
