@@ -22,16 +22,16 @@
 
 ## 👾 About Me
 
-I'm a software engineer who'll chase any rabbit hole that looks interesting — AI, terminal UIs, IRC protocols, graphics experiments, you name it. Language agnostic, though .NET has a special place in my heart.
+I like building things. Sometimes it's AI agents, sometimes it's a terminal chat app, sometimes it's cursed graphics experiments at 2am. I don't really care what language it's in as long as it's fun - though I'll always have a soft spot for .NET.
 
-Got my engineering degree in AI and never looked back — now it's all about building things that are actually fun to use. Outside of code I'm either gaming, making music, or posting things I'll regret later.
+I'm a big believer in owning your own stuff - self-hosted, open source, no unnecessary dependencies on someone else's platform. If I can build it myself and learn something along the way, that's the move. I'd rather ship something rough that works than overthink it into never existing.
 
-Hit me up on [Discord](https://discordapp.com/users/215556401467097088) or [email](mailto:ihuebyte@gmail.com) if you want to chat.
+Also into gaming, music, and shitposting. Reach me on [Discord](https://discordapp.com/users/215556401467097088) or [email](mailto:ihuebyte@gmail.com).
 
 ## 🎯 Currently poking at
 
-- **AI stuff beyond chatbots** — classical ML, computer vision, agents, whatever fits the problem
-- Picking the right tool for the job — be it **.NET**, **Rust**, **Python**, or whatever else
+- **AI stuff beyond chatbots** - classical ML, computer vision, agents, whatever fits the problem
+- Picking the right tool for the job - be it **.NET**, **Rust**, **Python**, or whatever else
 - Actually finishing side projects for once
 
 ---
@@ -40,10 +40,10 @@ Hit me up on [Discord](https://discordapp.com/users/215556401467097088) or [emai
 
 | 🚀 Project | What it is | Links |
 | ------- | ----------- | ----- |
-| 💬 **EchoHub** | Self-hosted IRC-style chat — terminal client, SignalR backend, IRC gateway. No tracking, no bloat, just chat. | [Repo](https://github.com/HueByte/EchoHub) • [App](https://echohub.voidcube.cloud/) |
+| 💬 **EchoHub** | Self-hosted IRC-style chat - terminal client, SignalR backend, IRC gateway. No tracking, no bloat, just chat. | [Repo](https://github.com/HueByte/EchoHub) • [App](https://echohub.voidcube.cloud/) |
 | 🤖 **Jiro** | Personal AI assistant with a plugin system powered by LLMs | [Repo](https://github.com/HueByte/Jiro) • [Libs](https://github.com/HueByte/Jiro.Libs) • [Shared](https://github.com/HueByte/Jiro.Shared) |
 | ☁️ **Morpheus** | Private AI agent for personal tasks and experiments | Currently private |
-| 😈 **Amiquin** | Chaos-loving AI sidekick — snark and humor on demand | [Repo](https://github.com/HueByte/Amiquin) |
+| 😈 **Amiquin** | Chaos-loving AI sidekick - snark and humor on demand | [Repo](https://github.com/HueByte/Amiquin) |
 | 🎨 **Hue Graphics** | A collection of fun graphics experiments | [Repo](https://github.com/HueByte/HueGraphics) |
 | 🗂️ **Explorer** | Lightweight Node.js file explorer powering my private CDN | [Repo](https://github.com/HueByte/CDN_Explorer) |
 | 🖼️ **Console Imager** | Display images in the console from online sources | [Repo](https://github.com/HueByte/ConsoleImager) |
