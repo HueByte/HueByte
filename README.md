@@ -10,7 +10,7 @@
   <p align="center">
     <a href="https://discordapp.com/users/215556401467097088"><img src="https://img.shields.io/badge/Discord-HueByte-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href="mailto:ihuebyte@gmail.com"><img src="https://img.shields.io/badge/Email-ihuebyte@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://me.huebytes.com/"><img src="https://img.shields.io/badge/Portfolio-me.huebytes.com-14a800?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+    <a href="https://me.huebytes.com/"><img src="https://img.shields.io/badge/Website-me.huebytes.com-14a800?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   </p>
 </p>
 
