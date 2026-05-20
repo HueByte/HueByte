@@ -37,7 +37,7 @@ A handful of things in parallel. Three of them, **Gabriel** / **Jiro** / **Morph
 
 - **[Gabriel](https://github.com/HueByte/Gabriel)**: a composable AI runtime that talks to LLMs and has a *face*. A 16×16 pixel-grid avatar breathes, pulses, and shimmers while it thinks. .NET 10 backend, React 19 + Three.js frontend, tool registry, rolling personality state, the whole agent loop. The piece everything agent-shaped is starting to point at.
 - **[whodat](https://github.com/HueByte/whodat)**: a global CLI identity registry. Claim a handle, leave a blurb, anyone can `whodat <name>` from their terminal and see your card with a block-character ASCII avatar. A phonebook for the internet. No feeds, no follows, no Stories. Rust CLI plus C# server, self-hostable, already on Chocolatey and Homebrew.
-- **[EchoHub](https://github.com/HueByte/EchoHub)**: self-hosted IRC-style chat. Terminal client, SignalR backend, real IRC gateway. [Live server](https://echohub.voidcube.cloud/). Will likely become a conversation surface for Gabriel-shaped things eventually.
+- **[EchoHub](https://github.com/HueByte/EchoHub)**: self-hosted IRC-style chat. Terminal client, SignalR backend, real IRC gateway. [Live server](https://echohub.voidcube.cloud/).
 - **[Jiro](https://github.com/HueByte/Jiro)** & **Morpheus**: personal AI agents being refactored to plug into Gabriel as workers. Jiro is public ([Libs](https://github.com/HueByte/Jiro.Libs), [Shared](https://github.com/HueByte/Jiro.Shared)). Morpheus is still cooking.
 - **[HueGraphics](https://github.com/HueByte/HueGraphics)**: shader noodling and 2am generative weirdness. Not part of anything bigger. Just for the joy of it.
 
