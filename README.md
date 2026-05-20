@@ -19,14 +19,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCD4B8,100:66D1E6&height=120&section=header" width="100%"/>
 </p>
 
-<!--
-  HERO SPOT: drop a real demo here.
-  Best options: a GIF of Gabriel's pixel-grid avatar in motion,
-  a screenshot of `whodat Hue` running in a terminal,
-  or a 10-15s asciinema of EchoHub's TUI.
-  This single addition will outperform every other change to this README.
--->
-
 ## 👾 About
 
 I build things. Sometimes it's AI agents, sometimes distributed services, sometimes a terminal app, sometimes cursed graphics experiments at 2am. Whatever the problem demands.
